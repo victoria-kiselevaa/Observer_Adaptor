@@ -9,6 +9,7 @@ public class ComponentCircle extends Circle implements IObserver {
         super(20); // Радиус круга
         this.setTranslateX(20);// Позиция по оси Х
         this.setTranslateY(100); // Позиция по оси Y
+        //проверка
     }
 
     @Override
